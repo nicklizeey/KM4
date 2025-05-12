@@ -1,0 +1,8 @@
+# KM4/modular-toolkit/config/model/mnist_mlp.yaml
+name: MNIST_MLP # Must match registration key
+model_config:
+  input_size: 784 # 28*28
+  hidden_sizes: [256, 128] # Example
+  output_size: 10 # 10 classes
+checkpoint_path: null
+strict_load: True

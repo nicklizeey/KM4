@@ -1,0 +1,11 @@
+name: TransformerDecodeOnly
+transformer_config:
+  vocab_size: 99
+  embed_dim: 128
+  norm_shape: 128
+  ffn_num_hiddens: 256
+  num_heads: 2
+  num_layers: 2
+  dropout: 0.01
+checkpoint_path: 
+strict_load: True

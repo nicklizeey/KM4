@@ -1,0 +1,7 @@
+name: MLP
+model_config:
+  vocab_size: 99
+  embed_dim: 128
+  num_hiddens: [256, 256, 256]
+checkpoint_path: 
+strict_load: True
