@@ -1,4 +1,0 @@
-name: AddModTransformerData
-frac_train: 0.2
-p: 97
-batch_size: 500
