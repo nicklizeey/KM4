@@ -1,0 +1,6 @@
+# KM4/modular-toolkit/config/datasets/mnist.yaml
+name: MNIST # This name MUST match the registration key in load_objs.py
+batch_size: 128 # Or your preferred batch size
+train_fraction: 0.2 # Fraction of training data to use for actual training (rest for validation)
+data_path: ./data # Path where MNIST data will be downloaded/stored
+num_workers: 0 # Number of parallel workers for data loading

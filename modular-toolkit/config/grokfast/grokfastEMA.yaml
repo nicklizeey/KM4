@@ -1,0 +1,3 @@
+name: grokfast_ema
+alpha: 0.98
+lamb: 4.0

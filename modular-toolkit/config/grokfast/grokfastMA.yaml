@@ -1,0 +1,4 @@
+name: grokfast_ma
+window_size: 100
+lamb: 5.0
+filter_type: mean
