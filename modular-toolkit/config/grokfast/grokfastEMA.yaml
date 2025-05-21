@@ -1,0 +1,5 @@
+name: grokfast_ema
+alpha: 0.98
+lamb: 4.0
+self_adoptive: True
+self_adoptive_rate: 0.1
