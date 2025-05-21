@@ -1,8 +1,0 @@
-name: RNN
-model_config:
-  p: 99
-  embedding_dim: 256
-  hidden_size: 256
-  num_layers: 2
-checkpoint_path:
-strict_load: True
