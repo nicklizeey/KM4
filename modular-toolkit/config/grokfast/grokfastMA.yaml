@@ -1,6 +1,0 @@
-name: grokfast_ma
-window_size: 100
-lamb: 5.0
-filter_type: mean
-self_adoptive: True
-self_adoptive_rate: 0.1

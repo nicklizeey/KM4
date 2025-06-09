@@ -1,7 +1,0 @@
-name: AddModImageCNN
-frac_train: 0.5
-p: 97
-batch_size: 300
-
-
-
